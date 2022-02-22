@@ -1,6 +1,6 @@
 ## Hello everyone! / Olá pessoal!
   
-- 👋 Hi, I’m @GustavodaVinha i´m 21 years old, i living in Brazil but i plan to move to other countries
+- 👋 Hi, I’m @GustavodaVinha i´m 21 years old, i living in Brazil but i plan to move to other countries 
 - 👋 Oi, Eu sou o Gustavo da Vinha tenho 21 anos de idade, e moro no Brasil mas planejo me mudar para outros paises
 
 - 👀 I’m interested in ut preten learning more  
@@ -8,8 +8,8 @@
 
 <div align="center">
   <a href="https://github.com/GustavodaVinha">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=GustavodaVinha&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GustavodaVinha&layout=compact&langs_count=7&theme=dark"/>
+  <img height="145em" src="https://github-readme-stats.vercel.app/api?username=GustavodaVinha&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GustavodaVinha&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
   
   <div style="display: inline_block"><br>
@@ -26,5 +26,6 @@
  	<a href="https://www.twitch.tv/gudssssss" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
   <a href = "mailto:gustavovinha722@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/gustavo-da-vinha-7836a6187/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="https://open.spotify.com/user/gustavodavinha" target="_blank"><img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white" target="_blank"></a>
 
 </div>
