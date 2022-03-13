@@ -1,10 +1,10 @@
 ### Hello everyone! / Olá pessoal!
   
-- 👋 Hi, I’m @GustavodaVinha i´m 21 years old, i living in Brazil but i plan to move to other countries 
-- 👋 Oi, Eu sou o Gustavo da Vinha tenho 21 anos de idade, e moro no Brasil mas planejo me mudar para outros paises
+- 👋 Hi, I’m @GustavodaVinha i´m 21 years old, i´m studying Development web front-end, i living in Brazil but i plan to move to other countries;
+- 👋 Oi, Eu sou o Gustavo da Vinha tenho 21 anos de idade, eu estou estudando desesnvolvimento web front-end, moro no Brasil mas planejo me mudar para outros paises;
 
-- 👀 I’m interested in ut preten learning more  
-- 👀 Eu estou interessado em aprender mais
+- 👀 I’m interested in ut preten learning more;  
+- 👀 Eu estou interessado em aprender mais;
 
 <div align="center">
   <a href="https://github.com/GustavodaVinha">
